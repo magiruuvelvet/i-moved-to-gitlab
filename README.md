@@ -2,10 +2,12 @@
 
 **https://gitlab.com/magiruuvelvet**
 
-<br><br>
+<br>
 
 I removed most of my projects from GitHub, including some forks!
 Archived repositories are kept on GitHub as they are not worth the trouble to migrate.
+
+I still plan to use GitHub in a limited way for projects I contribute to.
 
 <br>
 
@@ -29,6 +31,9 @@ Currently moved projects... (more to follow soon)
 
  - [dillinger](https://gitlab.com/magiruuvelvet/dillinger) [*upstream*](https://github.com/joemccann/dillinger) <br>
    self-hosted web-based markdown editor (my fork has ads removed)
+
+ - [markdown-editor](https://gitlab.com/magiruuvelvet/markdown-editor) [*upstream*](https://github.com/jbt/markdown-editor) <br>
+   Live (Github-flavored) Markdown Editor
 
 ## Other
 
