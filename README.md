@@ -11,7 +11,7 @@ I still plan to use GitHub in a limited way for projects I contribute to.
 
 <br>
 
-Currently moved projects... (more to follow soon)
+*Moved Projects!*
 
 # Projects
 
@@ -20,6 +20,9 @@ Currently moved projects... (more to follow soon)
 
  - [fcgipp](https://gitlab.com/magiruuvelvet/fcgipp) <br>
    fcgi++ application library
+
+ - [MusicConsoleReborn](https://gitlab.com/magiruuvelvet/MusicConsoleReborn) <br>
+   A simple console app which organizes all of your media files for fast and easy access.
 
  - [node-standardpaths](https://gitlab.com/magiruuvelvet/node-standardpaths) <br>
    Receive common operating system standard paths in JavaScript and Node
