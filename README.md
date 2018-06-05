@@ -11,7 +11,7 @@ I still plan to use GitHub in a limited way for projects I contribute to.
 
 <br>
 
-*Moved Projects!*
+*Moved Projects!* Note that this list will not be updated anymore in the future. This list only contains projects which were originally hosted on GitHub.
 
 # Projects
 
@@ -49,3 +49,13 @@ I still plan to use GitHub in a limited way for projects I contribute to.
  - [miscs](https://gitlab.com/magiruuvelvet/miscs) <br>
    Miscellaneous Utilities
 
+
+# Projects which will be kept on GitHub
+
+ - [LightweightQtDRMStreamViewer](https://github.com/magiruuvelvet/LightweightQtDRMStreamViewer) <br>
+   A lightweight as possible DRM stream viewer based on the Qt Web Engine
+
+   - including the plugin [netflix-1080p](https://github.com/magiruuvelvet/netflix-1080p) <br>
+     Netflix in 1080p (plugin for LightweightQtDRMStreamViewer)
+
+ - *all forks which aren't in the above list*
